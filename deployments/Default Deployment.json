@@ -1,0 +1,65 @@
+{
+    "assets": [
+        {
+            "asset_class": "devices",
+            "asset_id": "",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "users",
+            "asset_id": "",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": true
+        },
+        {
+            "asset_class": "services",
+            "asset_id": "",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": false
+        },
+        {
+            "asset_class": "libraries",
+            "asset_id": "",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": false
+        },
+        {
+            "asset_class": "timers",
+            "asset_id": "",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": false
+        },
+        {
+            "asset_class": "triggers",
+            "asset_id": "",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": false
+        },
+        {
+            "asset_class": "portals",
+            "asset_id": "",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": false
+        },
+        {
+            "asset_class": "plugins",
+            "asset_id": "",
+            "deployment": "Default Deployment",
+            "member": "Default Deployment_deployment_edge_group",
+            "sync": false
+        }
+    ],
+    "description": "Deployment created by the database migration process. It reflects the old semantics for ClearBlade systems",
+    "edges": [
+        "___ALL_EDGES___"
+    ],
+    "name": "Default Deployment"
+}

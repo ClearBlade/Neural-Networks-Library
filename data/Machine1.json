@@ -1,0 +1,522 @@
+{
+    "items": [
+        {
+            "item_id": "06bdbea1-6222-4880-8757-6a76d1f069d0",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,73.4,0.0683"
+        },
+        {
+            "item_id": "1446fab7-548a-4c6d-a8e5-3ebb825447b1",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,73.4,0.0685"
+        },
+        {
+            "item_id": "15bca4f3-fc31-4d11-b5d7-0405905f0521",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1710,77.3,1.7210"
+        },
+        {
+            "item_id": "1751fb14-2564-4bff-a28d-4ac8395da4d5",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1410,78.3,0.0693"
+        },
+        {
+            "item_id": "1ba69a32-df56-48da-b5b6-e05989522e28",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1740,95.0,1.7150"
+        },
+        {
+            "item_id": "1be368b8-dc0b-44a3-a31c-8415209f8194",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1500,80.3,0.4272"
+        },
+        {
+            "item_id": "1c6dc719-2159-4f7c-9769-66c8a12f10be",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1520,82.4,0.4272"
+        },
+        {
+            "item_id": "1e14369b-5832-4329-8b7f-f9e51a126491",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1532,83.1,0.5272"
+        },
+        {
+            "item_id": "20547f23-64a7-48e4-a3fe-3df22e368ebd",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,73.4,0.0690"
+        },
+        {
+            "item_id": "23202dbe-cba4-440e-8d49-a2cef10e83b8",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1551,81.0,0.4279"
+        },
+        {
+            "item_id": "238e2f03-d0fe-4e53-a7ca-b966699d3992",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1410,79.4,0.0690"
+        },
+        {
+            "item_id": "2417443a-be76-4816-bc96-12f3222d2319",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1780,95.5,1.8120"
+        },
+        {
+            "item_id": "252aaa60-20cc-431a-974d-6f1921afe5bf",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1421,75.4,0.0695"
+        },
+        {
+            "item_id": "2601cc91-6fa4-4eba-a6e8-df5b47b432f5",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1410,76.1,0.0688"
+        },
+        {
+            "item_id": "2885a889-45b6-46b0-a875-3f5bdc366ac4",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,73.4,0.4272"
+        },
+        {
+            "item_id": "2c19faee-826e-4e13-8ceb-71298571b3f7",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1521,76.5,0.0688"
+        },
+        {
+            "item_id": "2e7a275a-9c61-4c61-870a-749ad396ec90",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1559,82.0,0.4283"
+        },
+        {
+            "item_id": "2f8d224e-f248-4c64-964b-25a5862c2b89",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1430,83.1,0.5233"
+        },
+        {
+            "item_id": "3032fa44-872d-48ac-8a5e-593a0dfb5682",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1800,95.1,1.9000"
+        },
+        {
+            "item_id": "309551f6-ad00-44fe-96bc-33a706598111",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,72.1,0.0688"
+        },
+        {
+            "item_id": "31052f12-8ba8-4e87-8a53-2f7d2c29282a",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1200,76.6,0.0688"
+        },
+        {
+            "item_id": "31720e45-1869-4fd4-8432-7df517a3e91a",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1320,83.1,0.4333"
+        },
+        {
+            "item_id": "31a00aae-f28b-4447-b425-ef2ba6289ae6",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1820,82.1,0.4333"
+        },
+        {
+            "item_id": "3212c90e-18f1-4e1b-8296-b952184cf16e",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1591,83.2,0.4120"
+        },
+        {
+            "item_id": "32a4b96e-63e8-483b-ae0a-6666bed260a2",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,73.0,0.0685"
+        },
+        {
+            "item_id": "366e68ef-64a6-4e10-8702-d2fec302e516",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1410,78.4,0.0685"
+        },
+        {
+            "item_id": "36cba3eb-55a0-4ff7-b5f6-957da1df6d26",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1910,76.7,0.0685"
+        },
+        {
+            "item_id": "381cfd43-b112-48a4-8277-578192d2d872",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1410,78.5,0.0687"
+        },
+        {
+            "item_id": "3c1004dc-714e-44cf-a508-548c78d8e546",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1340,81.2,0.4120"
+        },
+        {
+            "item_id": "3cee106b-5036-4a99-a71c-f814887cc700",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1410,79.0,0.0693"
+        },
+        {
+            "item_id": "403a7dc7-25e2-495f-ba67-50195eb4045c",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1380,81.2,0.4120"
+        },
+        {
+            "item_id": "405bb420-f93c-4c9b-8903-3589b4cfeb3d",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1376,82.2,0.4120"
+        },
+        {
+            "item_id": "427c6183-e39d-4597-afe5-cff7dc1cb12d",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1231,80.2,0.4120"
+        },
+        {
+            "item_id": "42ee3471-d2eb-46fc-a7e6-89b6fa221e6e",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1300,92.1,1.7220"
+        },
+        {
+            "item_id": "43c63e55-8466-41a7-b63e-98c1f91d773d",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1430,80.1,0.4272"
+        },
+        {
+            "item_id": "45f7a237-94c9-4e59-900b-085f3e571760",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,72.0,0.0693"
+        },
+        {
+            "item_id": "4a64dcff-abc8-492a-95b2-8b25679782fc",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1410,78.1,0.0693"
+        },
+        {
+            "item_id": "4e303131-289b-4ad8-9a79-d7c748a2b9a1",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1410,78.8,0.0693"
+        },
+        {
+            "item_id": "50a941f2-92a2-4465-9801-0c0ed7317fdf",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1460,76.8,0.0693"
+        },
+        {
+            "item_id": "548f185f-0e8f-4d93-92f9-622258ec21eb",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1420,78.1,0.0693"
+        },
+        {
+            "item_id": "5992e887-9112-4372-a862-0d1eb98420fb",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1600,88.2,1.7150"
+        },
+        {
+            "item_id": "5aef8a5b-b31e-4bc1-98c5-6d1d429cfa07",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1441,80.2,0.4272"
+        },
+        {
+            "item_id": "5cec2514-a1ed-4d05-9da9-471b1875502f",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1320,74.0,0.0693"
+        },
+        {
+            "item_id": "67ae3abc-99d7-4924-9bf5-7b41606c7bdb",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1320,78.1,0.0693"
+        },
+        {
+            "item_id": "6cf8bd52-2e45-490c-b3fc-69262731bc8d",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1211,83.3,0.4272"
+        },
+        {
+            "item_id": "6d2e9a9e-cf78-4296-b7cf-fc4d6aeddfb2",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1245,82.1,0.4272"
+        },
+        {
+            "item_id": "72cfe146-6919-4679-a840-aa9e8ae96651",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1800,89.1,1.7200"
+        },
+        {
+            "item_id": "7357e4f8-0ae8-4cd2-8cd1-ec0dcd930980",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1230,80.2,0.4272"
+        },
+        {
+            "item_id": "73881281-f3ff-468e-906f-2839f9d9d4ea",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1222,80.6,0.4272"
+        },
+        {
+            "item_id": "7487f386-c80f-438b-9f3d-ee4a0ae4d389",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1320,76.8,0.0693"
+        },
+        {
+            "item_id": "77501f72-d2ba-49b7-ad74-047413ffaa07",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1921,90.3,1.8230"
+        },
+        {
+            "item_id": "7a813665-5522-48c8-a1b1-3eb278f8f31d",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1320,78.1,0.0696"
+        },
+        {
+            "item_id": "7d2b80f7-52cd-4bc4-8074-fd9dcc611a46",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1932,82.3,1.8230"
+        },
+        {
+            "item_id": "7d3c8c40-885b-49d9-ae0b-fe5b44244b0b",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1471,80.2,0.5233"
+        },
+        {
+            "item_id": "7dd24d18-fb4a-45ed-ae8a-e3474086ec1d",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,73.4,0.0701"
+        },
+        {
+            "item_id": "80d9e1c3-677d-4297-ad07-e975a3b283e7",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1900,80.8,0.4333"
+        },
+        {
+            "item_id": "87095b09-6053-496c-9c42-a57ff8a4d09f",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1311,80.2,0.4333"
+        },
+        {
+            "item_id": "9248871a-0e15-41f5-898a-f65ed1be3d47",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1899,92.1,1.7150"
+        },
+        {
+            "item_id": "9bf6e2c3-a075-40b6-af09-43a6e1397c97",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1310,78.7,0.0714"
+        },
+        {
+            "item_id": "9eda9274-6d3a-4b88-a14a-149933af5d63",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1310,76.9,0.0714"
+        },
+        {
+            "item_id": "a017c809-24ed-4553-b55f-aa56846685bd",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1270,82.4,0.4272"
+        },
+        {
+            "item_id": "a09cbf17-498f-4372-ad3d-313a9781bdff",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1265,83.4,0.4272"
+        },
+        {
+            "item_id": "a4d91e98-01f8-4c0c-a79b-ae7f99ee1cac",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1380,79.7,0.0718"
+        },
+        {
+            "item_id": "abf755c8-3023-4ff9-950b-a53274d4b7e4",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,73.8,0.0790"
+        },
+        {
+            "item_id": "ac2406b3-c716-4bf3-9534-6ee1bdd46520",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,71.8,0.0734"
+        },
+        {
+            "item_id": "b0ecbabe-ca17-4b71-9621-62024307bbfe",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1860,83.5,0.4272"
+        },
+        {
+            "item_id": "bd09b874-4f10-4bef-8ab8-2fefce818bac",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1341,82.5,0.4272"
+        },
+        {
+            "item_id": "beb8e6e3-04a9-4c0f-b7dc-164f1c3368bb",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,71.8,0.0714"
+        },
+        {
+            "item_id": "c0cb99c2-4b4a-4dae-8075-080020a400ad",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,73.6,0.0714"
+        },
+        {
+            "item_id": "c2216908-8e99-4f63-a18d-934da8126b09",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1380,79.7,0.0714"
+        },
+        {
+            "item_id": "c24b98a7-729c-40a5-afed-b230a44d8438",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1380,79.1,0.0714"
+        },
+        {
+            "item_id": "c2bcbe49-d6c9-4043-8297-6e25a7ddff88",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "2000,82.6,0.4272"
+        },
+        {
+            "item_id": "c89b7fb1-da00-4046-8b9b-79db878f3e19",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,71.6,0.0714"
+        },
+        {
+            "item_id": "c9ea4bdd-5637-48a2-8f2e-eda5d4779890",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,71.7,0.0714"
+        },
+        {
+            "item_id": "cadbc5b6-8107-4371-b7e6-e01133a9bf63",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1380,79.1,0.0714"
+        },
+        {
+            "item_id": "cc2f8de2-c2fc-4c31-8c87-ff8d7717a792",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1900,72.4,0.0714"
+        },
+        {
+            "item_id": "d099e823-b1bb-459b-b617-37d648646425",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,73.8,0.0714"
+        },
+        {
+            "item_id": "d0a80027-8853-4f43-a7c8-48d3f0600b94",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1200,82.7,0.4100"
+        },
+        {
+            "item_id": "d1b9e062-dacf-45a8-9de2-626243b349c4",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1380,79.7,0.0690"
+        },
+        {
+            "item_id": "d3d6dde9-87e3-440a-8230-c6462df39b7f",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1780,83.1,1.8210"
+        },
+        {
+            "item_id": "d5e9dd6b-b4b7-4516-98e4-5c7e6b8fce7a",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1388,75.2,0.0714"
+        },
+        {
+            "item_id": "d6898f43-0249-4c26-b604-cab8283bad3e",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,72.8,0.0714"
+        },
+        {
+            "item_id": "d6f3b13e-0060-45e4-8afe-558513620aca",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1378,75.2,0.0686"
+        },
+        {
+            "item_id": "d7fe8280-4aaa-4e85-8e79-b745cd8bb9e9",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1352,79.8,0.0633"
+        },
+        {
+            "item_id": "d95aeed3-6d69-4799-96ed-06e246873cbe",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1310,75.2,0.0633"
+        },
+        {
+            "item_id": "e13f4578-bcae-47ab-8747-67f0923ec665",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1880,82.8,1.7770"
+        },
+        {
+            "item_id": "e242b550-cb37-49e9-a03e-8c67d5f05fbf",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1355,75.2,0.0633"
+        },
+        {
+            "item_id": "e80da206-eb58-42ad-ac42-9f356820b2d4",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1410,79.2,0.0633"
+        },
+        {
+            "item_id": "e8872889-0bae-420c-930a-f1fdc75a97c1",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1444,73.1,0.0633"
+        },
+        {
+            "item_id": "e93a813c-3748-47d6-a98a-2a2c006264ed",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1291,75.2,0.0684"
+        },
+        {
+            "item_id": "eb8218f7-9619-4741-a019-6f38e709d805",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1250,81.1,0.4370"
+        },
+        {
+            "item_id": "ecbcaab4-98c3-48db-bc23-0d8d877e7e27",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1400,83.7,1.8210"
+        },
+        {
+            "item_id": "ed371a1f-3b4e-499e-9e01-189b1b77f20a",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1250,75.2,0.0689"
+        },
+        {
+            "item_id": "efe31445-8a24-4c5c-830b-acb45bf1dbec",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,73.4,0.0683"
+        },
+        {
+            "item_id": "f06e5ec2-3d35-4f37-bd44-277680daefe8",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1250,68.0,0.0633"
+        },
+        {
+            "item_id": "f29f2ba5-03d1-4748-b09d-6ac9f713c7fe",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1230,68.0,0.0665"
+        },
+        {
+            "item_id": "f370f3d2-2401-4411-83d6-8674c801dae1",
+            "maintenance_required": 1,
+            "power_temperature_accelerometer": "1940,93.1,1.8190"
+        },
+        {
+            "item_id": "f6a7c3e9-1f7a-4c2e-b0d9-86b03e4e5988",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1250,68.0,0.4272"
+        },
+        {
+            "item_id": "f7cae26a-c1bc-461e-8286-840545503e80",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1350,72.7,0.0683"
+        },
+        {
+            "item_id": "fbbeda6a-1c25-4ac7-8c6c-90a989becf2a",
+            "maintenance_required": 0,
+            "power_temperature_accelerometer": "1410,83.7,0.4272"
+        }
+    ],
+    "name": "Machine1",
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "power_temperature_accelerometer",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "maintenance_required",
+            "ColumnType": "int",
+            "PK": false
+        }
+    ]
+}

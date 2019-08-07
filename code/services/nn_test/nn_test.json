@@ -1,0 +1,13 @@
+{
+    "auto_balance": false,
+    "auto_restart": false,
+    "concurrency": 0,
+    "dependencies": "nn,clearblade,log",
+    "execution_timeout": 60,
+    "logging_enabled": true,
+    "name": "nn_test",
+    "params": [
+        "{\"params\":\"hidden\"}"
+    ],
+    "run_user": ""
+}

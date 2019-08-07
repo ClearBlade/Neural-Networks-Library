@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "ML",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "d89fb89c0be0f5eaa38ddbab9c03",
+    "system_secret": "D89FB89C0BF0B39BD0D1DE8ACE8801"
+}
