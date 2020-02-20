@@ -35,7 +35,7 @@
     "gateways": [],
     "name": "Neural-Networks-Library",
     "private": false,
-    "image_url": "https://imgur.com/47uJFZK",
+    "image_url": "https://i.imgur.com/47uJFZK.jpg",
     "dependencies": {
         "some_clearblade_lib": "latest",
         "http": "latest"
